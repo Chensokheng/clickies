@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/clickies/static/media/image2.76774577.jpg"
   },
   {
-    "revision": "fe58bf2f4dc9055a679e",
-    "url": "/clickies/static/css/main.67dcfc3f.chunk.css"
+    "revision": "d61d21660a766927fb53",
+    "url": "/clickies/static/css/main.deed190e.chunk.css"
   },
   {
     "revision": "ad67894f4fda9916978c",
@@ -16,16 +16,16 @@ self.__precacheManifest = [
     "url": "/clickies/static/media/surasnayak.3fd41b06.jpg"
   },
   {
-    "revision": "8f63eec3cde36cf3537e",
-    "url": "/clickies/static/js/2.8f63eec3.chunk.js"
+    "revision": "41af1d85dc9b5a03d4ab",
+    "url": "/clickies/static/js/2.41af1d85.chunk.js"
   },
   {
     "revision": "6fdb3e70f8147a0f7101fc6f93a58419",
     "url": "/clickies/static/media/image1.6fdb3e70.jpg"
   },
   {
-    "revision": "fe58bf2f4dc9055a679e",
-    "url": "/clickies/static/js/main.fe58bf2f.chunk.js"
+    "revision": "d61d21660a766927fb53",
+    "url": "/clickies/static/js/main.d61d2166.chunk.js"
   },
   {
     "revision": "c3dcfcf14b023bd822abbbdd0b7f805d",
@@ -44,11 +44,11 @@ self.__precacheManifest = [
     "url": "/clickies/static/media/sumanth.1eab898c.jpg"
   },
   {
-    "revision": "8f63eec3cde36cf3537e",
+    "revision": "41af1d85dc9b5a03d4ab",
     "url": "/clickies/static/css/2.b962b8ed.chunk.css"
   },
   {
-    "revision": "378d64d28efcd16b77ed9b56756de46a",
+    "revision": "d9c66f993f13aba961ed5290e6f1cea4",
     "url": "/clickies/index.html"
   }
 ];
